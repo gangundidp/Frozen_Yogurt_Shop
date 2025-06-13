@@ -378,7 +378,7 @@ padding:  23px;
 
 
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 425px) {
     .navbar {
         height: 20vh;
         flex-direction: column;
